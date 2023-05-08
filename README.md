@@ -53,4 +53,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/mondedelotus})
+- GitHub [@mondedelotus](https://github.com/mondedelotus/)
+- Portfolio [@mondedelotus](https://mondedelotus.github.io/portfolio/)
